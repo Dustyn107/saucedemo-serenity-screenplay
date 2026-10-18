@@ -1,0 +1,7 @@
+/node_modules
+/target
+/evidencias
+/tmp
+/out-tsc
+npm-debug.log*
+.vscode/*
